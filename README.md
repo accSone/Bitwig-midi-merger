@@ -12,6 +12,9 @@ Select the controller "MIDI Merger - accSone" as a track input in the Bitwig ins
 # Installation
 
 Copy all *.html and *.js files in the Bitwig User directory: 
+
 Windows: ~Documents\Bitwig Studio\Controller Scripts 
+
 Mac: ~Documents/Bitwig Studio/Controller Scripts 
+
 Linux: ~Documents/Bitwig Studio/Controller Scripts
