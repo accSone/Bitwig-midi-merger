@@ -8,3 +8,10 @@ It can be used to merge the MIDI output of your keyboards or controllers and use
 Just add it manually to the controller list and set up the inputs of your MIDI interface or your USB MIDI Keyboard.
 Makes sure you select all slots, otherwise the script will not be enabled.
 Select the controller "MIDI Merger - accSone" as a track input in the Bitwig inspector. 
+
+# Installation
+
+Copy all *.html and *.js files in the Bitwig User directory: 
+Windows: ~Documents\Bitwig Studio\Controller Scripts 
+Mac: ~Documents/Bitwig Studio/Controller Scripts 
+Linux: ~Documents/Bitwig Studio/Controller Scripts
